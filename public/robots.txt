@@ -1,5 +1,4 @@
-
 User-agent: *
 Allow: /
 
-Sitemap: https://everycodeshare.netlify.app/sitemap.xml
+Sitemap: https://everycodeshare.vercel.app/sitemap.xml
