@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://everycodeshare.netlify.app/sitemap.xml
